@@ -1,0 +1,7 @@
+C:\Users\Family\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Family\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Family\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Family\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Family\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Family\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Family\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
